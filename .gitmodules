@@ -1,0 +1,3 @@
+[submodule ".agents/global_agent_standards"]
+	path = .agents/global_agent_standards
+	url = https://github.com/akc276/global-agent-standards.git
